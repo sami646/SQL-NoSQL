@@ -1,1 +1,1 @@
-# SQl-NoSQL
+# SQL-NoSQL
